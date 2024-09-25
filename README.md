@@ -37,5 +37,7 @@ To view my portfolio simply clone this repository:
 Feel free to reach out to me:
 
 Twitter: https://x.com/Sibel88956140
+
 Linkedin: https://www.linkedin.com/in/sibel-a41112328
+
 Github: https://github.com/sibel2024
