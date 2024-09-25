@@ -30,4 +30,4 @@ https://github.com/sibel2024/expense-tracker
 
 ## Getting Started
 To view my portfolio simply clone this repository:
-
+    git clone https://github.com/sibel2024/Portfolio.git
